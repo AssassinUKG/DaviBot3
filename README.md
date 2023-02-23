@@ -1,5 +1,4 @@
 # DaviBot3
-ChatGPT bot
 
 ## Descripton 
 
