@@ -14,3 +14,5 @@ Api key
 ## Source Code
 
 You can use this as a base to build from. Or build your own .exe file after checking the source code. 
+
+No error handling provided, this was a very quick and dirty make. 
